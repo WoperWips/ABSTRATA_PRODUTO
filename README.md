@@ -24,6 +24,7 @@ Salvar: Registra o produto no sistema.
 Atualizar: Atualiza os dados do produto.
 Deletar: Remove o produto do sistema.
 Calcular Lucro: Calcula o lucro do produto com base nos preços de custo e venda.
+
 📋 Pré-requisitos Visual Studio + extensões do Java
 
 🔧 Instalação Cada programa pode ser executado individualmente. Basta compilar o código em seu ambiente Java e executar o arquivo correspondente.
