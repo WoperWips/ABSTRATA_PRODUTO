@@ -1,6 +1,8 @@
-package src.modelo.lib;
+package src.modelo;
 
-import src.ProdutoVestuario;
+import src.modelo.lib.Produto;
+import src.modelo.lib.ProdutoAlimenticio;
+import src.modelo.lib.ProdutoVestuario;
 
 public class Main {
     public static void main(String[] args) {
